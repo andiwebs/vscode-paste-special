@@ -37,7 +37,7 @@
 		"commands": [
 			{
 				"command": "extension.pastespecial",
-				"title": "Paste Special..."
+				"title": "Paste plain HTML"
 			}
 		],
 		"menus": {
